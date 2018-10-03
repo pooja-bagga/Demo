@@ -39,5 +39,5 @@ get_header(); ?>
 	</div><!-- #primary -->
 	<?php get_sidebar(); ?>
 </div><!-- .wrap -->
-
+<h2><a href="https://kb.yoast.com/kb/enable-xml-sitemaps-in-the-wordpress-seo-plugin/">asasas</a></h2>
 <?php get_footer();
